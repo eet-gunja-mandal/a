@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  distance betn two points.cpp
+c:\users\rajesh\documents\visual studio 2015\projects\distance betn two points\distance betn two points\distance betn two points.cpp(18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\rajesh\documents\visual studio 2015\projects\distance betn two points\distance betn two points\distance betn two points.cpp(28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\rajesh\documents\visual studio 2015\projects\distance betn two points\distance betn two points\distance betn two points.cpp(29): error C2065: 'cout': undeclared identifier
