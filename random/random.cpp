@@ -6,12 +6,14 @@
 using namespace std;
 int main()
 {
-	int x = 10, y = 8;
+	int x = 19, y = 8,z=9;
 		int dist;
-		dist = (x - y);
+		dist = (x - y-z);
 
 		cout << " the distance between two point is:" << dist<<endl;
 	system("pause");
     return 0;
 }
+
+
 
