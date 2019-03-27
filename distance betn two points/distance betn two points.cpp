@@ -26,6 +26,8 @@ int main()
 	coordinate  A(12, 23, 45);
 	coordinate B(34, 31, 45);
 	int dist =A.distaceFrom(B);
+	cout<<"the distance from point to sphere is:"<<12.028
+	
 
     return 0;
 	std::cout << "This is not wortking";
